@@ -9,6 +9,9 @@
 		"default_title": "Mass Instagram Unfollower",
 		"default_popup": "popup.html"
 	},
+	"icons": {
+    "64": "ig.png"
+  },
  	"permissions": [
 				"activeTab",
 				"storage"
