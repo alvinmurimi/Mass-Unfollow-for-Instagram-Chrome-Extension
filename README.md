@@ -1,2 +1,2 @@
-# Mass-Unfollow-for-Instagram-Chrome-Extension
+# Insta-mass-unfollow
 Chrome extension for instagram accounts mass unfollow
