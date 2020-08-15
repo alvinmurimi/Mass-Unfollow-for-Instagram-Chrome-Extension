@@ -1,0 +1,17 @@
+{ 
+	"manifest_version": 2,
+	"name": "InstaUnfollow",
+	"description": "Mass unfollow for Instagram", 
+	"version": "1", 
+	"author": "Alvin Murimi",
+	"browser_action": {
+		"default_icon": "ig.png",   
+		"default_title": "Mass Instagram Unfollower",
+		"default_popup": "popup.html"
+	},
+ 	"permissions": [
+				"activeTab",
+				"storage"
+       ]
+ 	
+ }
